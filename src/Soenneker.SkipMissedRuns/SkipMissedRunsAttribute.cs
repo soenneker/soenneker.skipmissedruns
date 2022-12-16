@@ -12,9 +12,9 @@ namespace Soenneker.SkipMissedRuns;
 public class SkipMissedRunsAttribute : JobFilterAttribute, IClientFilter
 {
     /// <summary>
-    /// The cutoff point in which we determine a job is 'old'
+    /// The cutoff point in which we determine a job is 'old'. (1 minute)
     /// </summary>
-    private const int MaxDelayMs = 1000;
+    private const int MaxDelayMs = 60000;
 
     public void OnCreating(CreatingContext filterContext)
     {
