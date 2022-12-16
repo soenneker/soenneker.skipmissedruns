@@ -2,7 +2,7 @@
 [![NuGet Version](https://img.shields.io/nuget/v/Soenneker.SkipMissedRuns.svg?style=flat)](https://www.nuget.org/packages/Soenneker.SkipMissedRuns/)
 
 # Soenneker.SkipMissedRuns
-### A tiny library to exclude recurring jobs from triggering on startup if they've been missed (because time has passed).
+### A tiny Hangfire library to exclude recurring jobs from triggering on startup if they've been missed (because time has passed).
 
 ## Installation
 
