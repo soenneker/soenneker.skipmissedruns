@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Hangfire.SkipMissedRuns\Soenneker.SkipMissedRuns.csproj" />
+    <ProjectReference Include="..\..\src\Soenneker.SkipMissedRuns\Soenneker.SkipMissedRuns.csproj" />
   </ItemGroup>
 
 </Project>
