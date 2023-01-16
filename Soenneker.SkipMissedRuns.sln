@@ -10,9 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C5A21B13-75F9-42C4-8541-5F17BD7FFD68}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1392E192-C6C4-4F54-851B-FB94C1FF7B9B}"
-	ProjectSection(SolutionItems) = preProject
-		pipeline\azure-pipelines.yml = pipeline\azure-pipelines.yml
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soenneker.SkipMissedRuns.Tests", "test\Soenneker.SkipMissedRuns.Tests\Soenneker.SkipMissedRuns.Tests.csproj", "{90FC6AB6-D5A9-468B-8B42-B41A42812055}"
 EndProject

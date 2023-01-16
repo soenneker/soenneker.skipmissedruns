@@ -1,8 +1,9 @@
-[![Build Status](https://dev.azure.com/soenneker/soenneker.skipmissedruns/_apis/build/status/soenneker.soenneker.skipmissedruns?branchName=main)](https://dev.azure.com/soenneker/soenneker.SkipMissedRuns/_build/latest?definitionId=1&branchName=main)
-[![NuGet Version](https://img.shields.io/nuget/v/Soenneker.SkipMissedRuns.svg?style=flat)](https://www.nuget.org/packages/Soenneker.SkipMissedRuns/)
+[![](https://img.shields.io/nuget/v/Soenneker.SkipMissedRuns.svg?style=for-the-badge)](https://www.nuget.org/packages/Soenneker.SkipMissedRuns/)
+[![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.skipmissedruns/main.yml?style=for-the-badge)](https://github.com/soenneker/soenneker.skipmissedruns/actions/workflows/main.yml)
+[![](https://img.shields.io/nuget/dt/Soenneker.SkipMissedRuns.svg?style=for-the-badge)](https://www.nuget.org/packages/Soenneker.SkipMissedRuns/)
 
 # Soenneker.SkipMissedRuns
-### A tiny Hangfire library to exclude recurring jobs from triggering on startup if they've been missed (because time has passed).
+### A tiny Hangfire library to exclude recurring jobs from triggering on startup if they've been missed (because time has passed)
 
 ## Installation
 
